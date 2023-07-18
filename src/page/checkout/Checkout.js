@@ -66,7 +66,6 @@ const Checkout = () => {
     }
   };
 
-
   //função para acrescentar o n° de adultos e crianças
   const handleMenosAdultos = () => {
     if (Number(getValues("adulto") - 1) < 1) {
