@@ -7,6 +7,8 @@
 
 Esse projeto é a versão final do desafio técnico de Front-end da empresa Wizzi. Esse projeto é uma página de formulário para que o usuário possa preencher e enviar seus dados.  
 
+Acesse o deploy: https://wizzi-desafio.netlify.app/
+
 
 ---
 
